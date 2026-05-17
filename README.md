@@ -10,8 +10,13 @@ Animação suave ao carregar a página
 
 🗂️ Estrutura do projeto
 projeto/
-├── index.html        # Página principal
-├── README.md         # Este arquivo
-└── imagens/          # Pasta com as imagens
+
+├── index.html  # Página principal
+
+├── README.md   # Este arquivo
+
+└── imagens/     # Pasta com as imagens
+
     ├── avatar.png    # Foto de perfil
+    
     └── favicon.png   # Ícone da aba do navegador
